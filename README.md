@@ -6,6 +6,6 @@
 - 😄 Pronouns: She/her
 
 <!---
-priya786/priya786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+the-priya-gupta/the-priya-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
