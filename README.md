@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Priya Gupta having 4+ years of experience as software quality analyst.
+- 👋 Hi, I’m Priya Gupta having 5+ years of experience as software backend development.
 - 👀 I’m interested in leaning new web technologies.
 - 🌱 I’m currently learning react native.
 - 💞️ I’m looking to collaborate on website projects.
-- 📫 How to reach me priyaguptapiya@gmail.com 
+- 📫 How to reach me gpriya7272@gmail.com 
 - 😄 Pronouns: She/her
 
 <!---
